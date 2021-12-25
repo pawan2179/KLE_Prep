@@ -1,0 +1,82 @@
+{
+  "questions":
+  [
+    {
+      "Questions": "What is Q factor?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.electronics-notes.com\/articles\/basic_concepts\/q-quality-factor\/basics-tutorial-formula.php",
+      "Link": "https:\/\/www.electronics-notes.com\/articles\/basic_concepts\/q-quality-factor\/basics-tutorial-formula.php",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "What is the unit of attenuation?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.techtarget.com\/searchnetworking\/definition\/attenuation",
+      "Link": "https:\/\/www.techtarget.com\/searchnetworking\/definition\/attenuation",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "Difference Between Active and Passive Components",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/circuitglobe.com\/difference-between-active-and-passive-components.html",
+      "Link": "https:\/\/circuitglobe.com\/difference-between-active-and-passive-components.html",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "State Maximum power transfer theorem?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.tutorialspoint.com\/network_theory\/network_theory_maximum_power_transfer_theorem.htm",
+      "Link": "https:\/\/www.tutorialspoint.com\/network_theory\/network_theory_maximum_power_transfer_theorem.htm",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "State Superposition theorem",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/byjus.com\/physics\/superposition-theorem\/",
+      "Link": "https:\/\/byjus.com\/physics\/superposition-theorem\/",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "Define cut-off frequency?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.electrical4u.com\/cutoff-frequency\/",
+      "Link": "https:\/\/www.electrical4u.com\/cutoff-frequency\/",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "What is Reciprocity theorem?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/circuitglobe.com\/what-is-reciprocity-theorem.html",
+      "Link": "https:\/\/circuitglobe.com\/what-is-reciprocity-theorem.html",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "What is the difference between the unilateral and bilateral network?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.elprocus.com\/difference-between-unilateral-circuits-and-bilateral-circuits\/",
+      "Link": "https:\/\/www.elprocus.com\/difference-between-unilateral-circuits-and-bilateral-circuits\/",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "State clearly the Thevenin’s theorem.",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.electronics-tutorials.ws\/dccircuits\/dcp_7.html",
+      "Link": "https:\/\/www.electronics-tutorials.ws\/dccircuits\/dcp_7.html",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "Explain the switching action of an inductor?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/www.electronics-tutorials.ws\/inductor\/inductor.html",
+      "Link": "https:\/\/www.electronics-tutorials.ws\/inductor\/inductor.html",
+      "Topic": "Network Theory"
+    },
+    {
+      "Questions": "Explain the switching action of a capacitor?",
+      "Company Tags": "Texas,Robert Bosch,Mercedez Benz,Sankalp semiconductor,Applied Materials",
+      "Resource Link": "https:\/\/wiki.analog.com\/university\/courses\/electronics\/electronics-lab-19",
+      "Link": "https:\/\/wiki.analog.com\/university\/courses\/electronics\/electronics-lab-19",
+      "Topic": "Network Theory"
+    }
+  ]
+}
